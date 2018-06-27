@@ -1,1 +1,1 @@
-# pycrawler
+# naver news crawler
